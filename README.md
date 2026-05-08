@@ -1,1 +1,1 @@
-# investment-calculator
+# Full stack restaurant app
